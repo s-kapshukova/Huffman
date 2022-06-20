@@ -1,1 +1,1 @@
-# Haffman
+# Huffman
